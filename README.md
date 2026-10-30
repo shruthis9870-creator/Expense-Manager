@@ -2,6 +2,8 @@
 
 > Take control of your money, one expense at a time.
 
+🌐 **Live Demo:** [https://shruthis9870-creator.github.io/Expense-Manager/](https://shruthis9870-creator.github.io/Expense-Manager/)
+
 Expensely is a modern, responsive, and intuitive web application designed to track personal finances, manage monthly budgets, and visualize spending habits with interactive charts and real-time analytics.
 
 ---
